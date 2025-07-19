@@ -103,4 +103,3 @@ python3 att.py #linux
 
 - `audio.srt`: 包含时间轴的字幕文件
 - `audio.txt`: 纯文本转录结果
-- 
